@@ -1,1 +1,3 @@
 Als Entwickler könnt ihr euch auf zwei Dinge verlassen: Kaffee am Morgen und Bugs in der Nacht. Doch lasst euch nicht entmutigen, denn hinter jedem Bug steckt eine Chance zur Entwicklung. Also, trinkt euren Kaffee, haltet durch und lasst uns die Nacht zum Tag machen - denn gemeinsam können wir jedes Problem lösen!
+
+Was haben Kaffee, Nächte und Bugs gemeinsam? Sie sind alle Teil des Entwicklerlebens! Doch lasst uns nicht vergessen, dass Kaffee uns wach hält, Nächte uns kreativ machen und Bugs uns lehren, geduldig zu sein. Also, haltet eure Kaffeetassen hoch, macht euch bereit für die Nacht und lasst uns diese Bugs so richtig zum Schwitzen bringen - wer braucht schon Schlaf, wenn man Code schreiben kann?
