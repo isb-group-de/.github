@@ -1,0 +1,1 @@
+Als Entwickler könnt ihr euch auf zwei Dinge verlassen: Kaffee am Morgen und Bugs in der Nacht. Doch lasst euch nicht entmutigen, denn hinter jedem Bug steckt eine Chance zur Entwicklung. Also, trinkt euren Kaffee, haltet durch und lasst uns die Nacht zum Tag machen - denn gemeinsam können wir jedes Problem lösen!
