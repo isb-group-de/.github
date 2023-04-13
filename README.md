@@ -1,6 +1,6 @@
-Dies ist ein Standard Repository von Github. Hier findest du das template für unsere ReadMe.md die jedes neue projekt bekommen muss:
+Dies ist ein Standard Repository von Github. Hier findest du das template für unsere ReadMe.md die jedes neue Projekt erhalten muss:
 
-# <Name des Repositories>
+# Name des Repositories
 Kurzbeschreibung des Repositories
 
 ## Funktionsumfang
